@@ -1,0 +1,6 @@
+env: dev
+output_dir: configs
+
+ssh:
+  timeout: 10
+  command: show running-config

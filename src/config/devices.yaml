@@ -1,0 +1,10 @@
+devices:
+  - hostname: router1
+    ip: 10.0.0.1
+    location: DFW
+    type: core-router
+
+  - hostname: router2
+    ip: 10.0.0.2
+    location: NYC
+    type: edge-router
